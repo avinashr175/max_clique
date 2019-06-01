@@ -4,3 +4,6 @@ p<sub>2</sub> are prime numbers. Also, without loss of generality we can conside
 
 # Construction of graph from given N and divisor set D
 D is a list of divisors. Any element of D is of the form p<sub>1</sub><sup>a</sup>p<sub>2</sub><sup>b</sup> where 0<=a<M<sub>1</sub> and 0<=b<M<sub>2</sub>. There exists a edge between vertices i and j iff gcd(i-j,N) is an element of D.
+
+# Description of the files
+
