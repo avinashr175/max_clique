@@ -7,4 +7,4 @@ D is a list of divisors. Any element of D is of the form p<sub>1</sub><sup>a</su
 
 # Description of the files
 
-The main module is the maximum_clique_size.m . We have also written a script to catch out exceptions in which our algorihtm fails. We use NetworkX which is a python package to compute the max clique size accurately. Note that it's computational complexity is of exponential order. 
+The main module is the maximum_clique_size.m . We have also written a script (maximum_clique_size_gcd.m) to catch out exceptions in which our algorihtm fails. We use NetworkX which is a python package to compute the max clique size accurately. Note that it's computational complexity is of exponential order. The failing test cases have been noted down in the exceptions text file.
